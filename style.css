@@ -1,0 +1,20 @@
+p{
+    background-color: rgb(0, 153, 255);
+    font-family:'Times New Roman', Times, serif;
+    line-height: 20px;
+    font-weight: normal;
+    font-size: 15px;    
+    opacity:0.2;
+    text-align: left;
+    letter-spacing: 2px;
+}
+h1{
+    background-color: rgba(185, 171, 194, 0.596);
+}
+
+body{
+    text-transform: capitalize;
+    border: 5px double rgb(130, 104, 165) ;
+    border-radius: 20px;
+    background: linear-gradient(to right, #b3f715, #a37ceb);
+}
